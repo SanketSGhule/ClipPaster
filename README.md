@@ -21,6 +21,12 @@
 
 **ClipPaster** allows you to instantly insert custom text chunks (emails, templates, signatures, code snippets, meeting links) into any typing place using customizable keyboard shortcuts.
 
+### 🎯 How to Use
+1. **Focus on any typing place:** Click your cursor inside any text input, textarea, or rich-text editor on any website (e.g., Gmail, Slack, Discord, Twitter/X, forms, CMS editors).
+2. **Press your shortcut:** Press **`Ctrl + Shift + [Numpad / Number]`** (from 0 to 9).
+3. **Instant paste:** Your configured text chunk is instantly pasted at the cursor position with full undo (`Ctrl + Z`) support.
+4. **Customize your text chunks:** Click the ClipPaster extension icon in the toolbar (or right-click → **Options**) to modify your 10 snippet slots, adjust modifiers, or test in the interactive sandbox.
+
 ### 💡 Why not `Ctrl + 1-9`?
 In Google Chrome on Windows, `Ctrl + 1` through `Ctrl + 8` is reserved by the browser to switch tabs, and `Ctrl + 9` jumps to the last tab. This shortcut is intercepted at the browser level and cannot be suppressed.
 

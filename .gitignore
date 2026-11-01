@@ -1,0 +1,19 @@
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Node / Package managers
+node_modules/
+package-lock.json
+
+# Logs & temp
+*.log
+*.tmp
+.user_uploaded/
